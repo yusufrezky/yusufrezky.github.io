@@ -1,0 +1,24 @@
+.box{
+    width: 450px;
+    padding: 40px;
+    text-align: center;
+    margin: auto;
+    margin-top: 5%;
+    font: sans-serif;
+}
+.box-img{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
+
+.about{
+    background-color: white;
+    text-align: center;
+    padding: 50px;
+    font: sans-serif;
+}
+
+.footer{
+    padding: 100px;
+}
